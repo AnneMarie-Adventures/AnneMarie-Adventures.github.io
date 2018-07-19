@@ -22,4 +22,4 @@ p {line-height: 1.5;}
 .about {text-align: center;}
 .post-author img, .about-author img {border-radius: 50%;}
 .post-container:nth-child(even) {background-color: #f2f2f2;}
-.post-title a{text-transform: uppercase;} /*need to figure this out /*
+.post-title span{text-transform: uppercase;} /*need to figure this out /*
